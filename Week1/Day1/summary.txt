@@ -1,0 +1,4 @@
+strings - primitive type of data, consist of letters (char) and usially in "" or ''. An imutable sequence of chars.
+integers - whole numbers, like 1, 2 or 100
+floats - decimals, like 1.2, 100.0
+booleans - True/False values
